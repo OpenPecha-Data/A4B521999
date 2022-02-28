@@ -1,0 +1,19 @@
+segment_sources:
+  P118FAAF7:
+    type: origin_type
+    relation: translation
+    language: en
+  P9C33C29C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3adc8e8c3f534c60bebb0602afbe500a:
+    P118FAAF7: c8fc7e82699543468813ce80b8500b64
+    P9C33C29C: f80d4eeebed94d10a11f03bba702cd7d
+  0ede2ed7e7cf4bcfb5c75b62e01a4a72:
+    P118FAAF7: 1f4863c3bf844755966c7cf35bffa99c
+    P9C33C29C: 72cd04aea8b44dc784b059f048f3ccb6
+  4ab55543bb734e53a1f958ac72702ce6:
+    P118FAAF7: d7ec66d9411944b3b8667b35ab5dd4d5
+    P9C33C29C: 98bf9d58bec2499fa3be5206e524551c
